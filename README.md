@@ -1,2 +1,3 @@
 # Sarcasm-Detection
 Identify the sarcasm out of the large data set generated from Twitter using feature based approach to increase the efficiency of Opinion Mining and Sentiment Analysis systems.
+Sarcasm is way of expression to pull someone’s leg by saying something and meaning the exact opposite if it. It is generally used on twitter. It might be used for criticism or ridicule when speaker wants to convey the feelings in an implicit way. As sarcasm usually reverse what speaker wants to say. So it has major impact on opinion mining and sentiment analysis. Hence sarcasm has to be detected in order to give precise results. Recognition of sarcasm will result in improved performances in these systems.
